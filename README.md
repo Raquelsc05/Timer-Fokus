@@ -3,7 +3,7 @@
 ## :hammer: Funcionalidades do projeto
 - `Timer`: Manter o foco, descanso curto e descanso longo.
 - `MÚSICA `: Para concentração
-- `Botão `: Play ▶  pause //
+- `Botão `: Play ▶  pause ⏸️
 ### Criado by Alura 
 ### JavaScript desenvolvido by Raquel Costa
 
